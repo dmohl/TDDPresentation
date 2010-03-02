@@ -1,0 +1,38 @@
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Moq.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\SG.Common.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\StructureMap.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\TDD_Example.exe
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Moq.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\StructureMap.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.XmlSerializers.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\tests\CalculatorTests\obj\Debug\CalculatorTests.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Moq.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\SG.Common.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\StructureMap.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\TDD_Example.exe
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\TDD_Example.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Moq.xml
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\StructureMap.xml
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\MbUnit.xml
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.xml
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\bin\Debug\Gallio.XmlSerializers.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\tests\CalculatorTests\obj\Debug\CalculatorTests.pdb

@@ -1,0 +1,17 @@
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\CalculatorUIViewModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\CalculatorUIViewModel.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\obj\Debug\CalculatorUIViewModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\obj\Debug\CalculatorUIViewModel.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\SG.Common.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\SG.Common.Wpf.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\MbUnit.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\Gallio.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\MbUnit.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\Gallio.xml
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\CalculatorUIModel.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\StructureMap.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\CalculatorUIModel.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIViewModel\bin\Debug\StructureMap.xml

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{499BC90A-8582-46B1-AA29-DAA04E6AE9FA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CalculatorViewModelTests</RootNamespace>
+    <AssemblyName>CalculatorViewModelTests</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gallio, Version=3.1.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\lib\Gallio.dll</HintPath>
+    </Reference>
+    <Reference Include="MbUnit, Version=3.1.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\lib\MbUnit.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq">
+      <HintPath>..\..\..\lib\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="SG.Common">
+      <HintPath>..\..\..\lib\SG.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SG.Common.Wpf">
+      <HintPath>..\..\..\lib\SG.Common.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\..\..\lib\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalculatorViewModelTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\CalculatorUIModel\CalculatorUIModel.csproj">
+      <Project>{9C55E0CD-4878-4708-88EC-F57BC450AD37}</Project>
+      <Name>CalculatorUIModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\src\CalculatorUIViewModel\CalculatorUIViewModel.csproj">
+      <Project>{5F3852C9-0A3F-4C0C-9AEC-4A654CF81E1D}</Project>
+      <Name>CalculatorUIViewModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\src\Calculator\Calculator.csproj">
+      <Project>{40AF25BE-0FD0-4D26-82D0-5CA236EF8F19}</Project>
+      <Name>Calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TestHelper\TestHelper.csproj">
+      <Project>{8DDD86D6-A4A3-4BA3-8E83-470513EF6E54}</Project>
+      <Name>TestHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

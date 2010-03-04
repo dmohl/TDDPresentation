@@ -1,0 +1,24 @@
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\bin\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\bin\Debug\StructureMap.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\bin\Debug\StructureMap.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\obj\x86\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\SG.Common.Wpf.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\SG.Common.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\MbUnit.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\Gallio.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\MbUnit.xml
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\Gallio.xml
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\TDD_Example.dll.config
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\bin\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\obj\x86\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\Calculator\bin\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\Calculator\bin\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\Calculator\obj\x86\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\Calculator\obj\x86\Debug\TDD_Example.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\Calculator\bin\Debug\TDD_Example.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\Calculator\bin\Debug\TDD_Example.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\Calculator\obj\x86\Debug\TDD_Example.dll
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\Calculator\obj\x86\Debug\TDD_Example.pdb

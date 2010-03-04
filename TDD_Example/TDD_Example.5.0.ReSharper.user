@@ -8,7 +8,7 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="40AF25BE-0FD0-4D26-82D0-5CA236EF8F19/f:Program.cs" caret="0" fromTop="0" />
+      <File id="58A4F539-9088-4985-84C8-FA967DF11FBB/f:AddStrategyTests.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits />
   </RecentFiles>
@@ -23,4 +23,164 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="scanner" priority="0" />
+      <Item value="protected" priority="25" />
+      <Item value="class" priority="5" />
+      <Item value="override" priority="11" />
+      <Item value="SG" priority="0" />
+      <Item value="Common" priority="0" />
+      <Item value="Test" priority="0" />
+      <Item value="Concern`0" priority="4" />
+      <Item value="_calculatorStrategy" priority="0" />
+      <Item value="new" priority="13" />
+      <Item value="IAddStrategy" priority="0" />
+      <Item value="public" priority="24" />
+      <Item value="void" priority="19" />
+      <Item value="_result" priority="1" />
+      <Item value="_addStrategy" priority="0" />
+      <Item value="decimal" priority="18" />
+      <Item value="return" priority="5" />
+      <Item value="TestFixtureAttribute`0" priority="1" />
+      <Item value="Gallio" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="MbUnit" priority="0" />
+      <Item value="Framework" priority="0" />
+      <Item value="value1" priority="2" />
+      <Item value="abstract" priority="4" />
+      <Item value="const" priority="0" />
+      <Item value="IAddStrategy`0" priority="3" />
+      <Item value="base" priority="0" />
+      <Item value="Add_Stategy_Concern`0" priority="0" />
+      <Item value="_calculator" priority="4" />
+      <Item value="ICalculator" priority="0" />
+      <Item value="calculationStrategies" priority="2" />
+      <Item value="var" priority="4" />
+      <Item value="addStrategyMock" priority="0" />
+      <Item value="CalculationType" priority="1" />
+      <Item value="Add" priority="1" />
+      <Item value="Calculator" priority="1" />
+      <Item value="calculationType" priority="0" />
+      <Item value="Calculator`0" priority="0" />
+      <Item value="CalculationType`0" priority="5" />
+      <Item value="ICalculationStrategy`0" priority="3" />
+      <Item value="value2" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="ISubtractStrategy`0" priority="1" />
+      <Item value="Mock`0" priority="0" />
+      <Item value="ICalculatorModel" priority="0" />
+      <Item value="TestHelpers`0" priority="0" />
+      <Item value="_calculatorModel" priority="10" />
+      <Item value="if" priority="3" />
+      <Item value="_calculationStrategies" priority="3" />
+      <Item value="Dictionary&lt;CalculationType,ICalculationStrategy&gt;" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="CloseGenericTypeExpression`0" priority="0" />
+      <Item value="CalculationStrategyFactory`0" priority="1" />
+      <Item value="private" priority="4" />
+      <Item value="Test`0" priority="0" />
+      <Item value="ConcernBase`0" priority="1" />
+      <Item value="CurrentTotal" priority="2" />
+      <Item value="CurrentCalculationStrategy" priority="0" />
+      <Item value="ICSharpCode" priority="0" />
+      <Item value="_viewModel" priority="4" />
+      <Item value="ICalculatorViewModel" priority="0" />
+      <Item value="TestHelper" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="CalculatorViewModel`0" priority="0" />
+      <Item value="ICalculatorViewModel`0" priority="1" />
+      <Item value="calculatorModel" priority="1" />
+      <Item value="EnteredValue" priority="2" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="currentValue" priority="0" />
+      <Item value="_enteredValue" priority="3" />
+      <Item value="Mock&lt;ICalculatorModel&gt;" priority="0" />
+      <Item value="SetupAllProperties`0" priority="0" />
+      <Item value="_calculatorModelMock" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="AddStrategy`0" priority="0" />
+      <Item value="ICalculator`0" priority="1" />
+      <Item value="CalculatorModel`0" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="ICalculatorModel`0" priority="0" />
+      <Item value="StructureMap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Graph.IAssemblyScanner">
+      <Item value="AssemblyContainingType`0" priority="2" />
+      <Item value="Assembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ShouldEqual`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="2" />
+      <Item value="Object" priority="1" />
+      <Item value="SetupAllProperties`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TDD_Example.Calculator.IAddStrategy">
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`4" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TDD_Example.Calculator.ICalculationStrategy">
+      <Item value="Calculate`0" priority="1" />
+      <Item value="ShouldBeNull`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TDD_Example.Calculator.CalculationType">
+      <Item value="Subtract" priority="3" />
+      <Item value="Add" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="GetInstance`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CalculatorUIModel.CalculationStrategyFactory">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CalculatorUIModel.ICalculatorModel">
+      <Item value="CalculationStrategies" priority="2" />
+      <Item value="CurrentCalculationStrategy" priority="2" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="CurrentTotal" priority="2" />
+      <Item value="Equate`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="CurrentCalculationType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.ICommand">
+      <Item value="ShouldEqual`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CalculatorUIViewModel.ICalculatorViewModel">
+      <Item value="EnteredValue" priority="2" />
+      <Item value="AddCommand" priority="0" />
+      <Item value="CurrentTotal" priority="0" />
+      <Item value="EquateCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TDD_Example.Calculator.CalculationType">
+      <Item value="ShouldEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

@@ -2730,6 +2730,11 @@
       <exception cref="T:System.ArgumentNullException">The specified type is null.</exception>
       <exception cref="T:System.ArgumentException">The specified type is not an enumeration type.</exception>
     </member>
+    <member name="P:MbUnit.Framework.EnumDataAttribute.EnumerationType">
+      <summary>
+            Gets the type of the enumeration.
+            </summary>
+    </member>
     <member name="P:MbUnit.Framework.EnumDataAttribute.Exclude">
       <summary>
             Sets or gets the single enumeration value that must be excluded from the column.

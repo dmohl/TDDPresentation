@@ -1,0 +1,31 @@
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\MainWindow.baml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\App.g.cs
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI_MarkupCompile.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.g.resources
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.Properties.Resources.resources
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.exe
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\SG.Common.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\SG.Common.Wpf.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\StructureMap.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\MbUnit.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\Gallio.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\StructureMap.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\MbUnit.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\Gallio.xml
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUIModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUIViewModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUIModel.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUIViewModel.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUI\bin\Debug\TDD_Example.pdb
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.exe
+C:\Dan\Presentations\TDD - Moving to the Next Level\TDD_Example\src\CalculatorUI\obj\x86\Debug\CalculatorUI.pdb

@@ -1,4 +1,10 @@
 <Modules>
   <Module PersistentId="58A4F539-9088-4985-84C8-FA967DF11FBB" ModuleId="CalculatorTests" />
   <Module PersistentId="40AF25BE-0FD0-4D26-82D0-5CA236EF8F19" ModuleId="Calculator" />
+  <Module PersistentId="826EFD1E-94CD-4491-BB8B-41DB30D46232" ModuleId="CalculatorUI" />
+  <Module PersistentId="9C55E0CD-4878-4708-88EC-F57BC450AD37" ModuleId="CalculatorUIModel" />
+  <Module PersistentId="5F3852C9-0A3F-4C0C-9AEC-4A654CF81E1D" ModuleId="CalculatorUIViewModel" />
+  <Module PersistentId="C6894DA3-0110-463D-BDD5-04E568F03AB7" ModuleId="CalculatorUIModelTests" />
+  <Module PersistentId="499BC90A-8582-46B1-AA29-DAA04E6AE9FA" ModuleId="CalculatorViewModelTests" />
+  <Module PersistentId="8DDD86D6-A4A3-4BA3-8E83-470513EF6E54" ModuleId="TestHelper" />
 </Modules>

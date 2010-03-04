@@ -7586,7 +7586,7 @@
       <summary>
             Gets the version of the installed .Net 4.0 runtime version, or null if not installed.
             </summary>
-      <returns>The runtime version, eg. "v4.0.20506"</returns>
+      <returns>The runtime version, eg. "v4.0.21006"</returns>
     </member>
     <member name="P:Gallio.Common.Platform.DotNetRuntimeSupport.IsUsingMono">
       <summary>
@@ -7597,7 +7597,7 @@
       <summary>
             Gets the version of the most recent installed .Net runtime version.
             </summary>
-      <returns>The runtime version, eg. "v4.0.20506"</returns>
+      <returns>The runtime version, eg. "v4.0.21006"</returns>
     </member>
     <member name="P:Gallio.Common.Platform.DotNetRuntimeSupport.RuntimeType">
       <summary>
@@ -7608,7 +7608,7 @@
       <summary>
             Gets the .Net runtime version in use.
             </summary>
-      <returns>The runtime version, eg. "v2.0.50727" or "v4.0.20506"</returns>
+      <returns>The runtime version, eg. "v2.0.50727" or "v4.0.21006"</returns>
     </member>
     <member name="T:Gallio.Common.Platform.DotNetRuntimeType">
       <summary>
@@ -7714,6 +7714,34 @@
       <summary>
             The process is running as a Windows service.
             </summary>
+    </member>
+    <member name="T:Gallio.Common.Platform.RegistryUtils">
+      <summary>
+            Provides additional utilities for manipulating the Windows registry, particularly
+            to take care of differences on 32bit and 64bit platforms.
+            </summary>
+    </member>
+    <member name="M:Gallio.Common.Platform.RegistryUtils.GetValueWithBitness(System.String,System.String,System.String,System.String)">
+      <summary>
+            Gets a registry value taking into account the bitness of the platform.
+            </summary>
+      <param name="keyName">The key name.</param>
+      <param name="alternateKeyNameFor64Bit">The alternate key name to try on 64bit platforms if the other key cannot be found.  (The name should probably include "Wow6432Node".)</param>
+      <param name="valueName">The value name, or null to read the key's value.</param>
+      <param name="defaultValueIfKeyExistsButValueDoesNot">The default value to return if the key exists but the value does not.</param>
+      <returns>The value, or null if the key does not exist.</returns>
+    </member>
+    <member name="M:Gallio.Common.Platform.RegistryUtils.TryActionOnOpenSubKeyWithBitness(Microsoft.Win32.RegistryKey,System.String,System.String,Gallio.Common.Func{Microsoft.Win32.RegistryKey,System.Boolean})">
+      <summary>
+            Opens a registry subkey taking into account the bitness of the platform
+            and attempts to perform an action.  If the action fails and running on x64,
+            then tries again with the alternate key.
+            </summary>
+      <param name="key">The registry key.</param>
+      <param name="subKeyName">The subkey name.</param>
+      <param name="alternateSubKeyNameFor64Bit">The alternate subkey name to try on 64bit platforms if the other subkey cannot be found.  (The name should probably include "Wow6432Node".)</param>
+      <param name="action">The action to perform on the sub key.  Should return true on success.</param>
+      <returns>True if the action succeeded.</returns>
     </member>
     <member name="T:Gallio.Common.Policies.CorrelatedExceptionEventArgs">
       <summary>
@@ -14575,7 +14603,7 @@
             Sets the font size of the caption to display over screenshots images and videos. 
             </summary>
       <param name="fontSize">The caption font size.</param>
-      <exception cref="T:System.ArgumentOutOfRangeException">Thrown if <paramref name="value" /> is less than 1.</exception>
+      <exception cref="T:System.ArgumentOutOfRangeException">Thrown if <paramref name="fontSize" /> is less than 1.</exception>
     </member>
     <member name="M:Gallio.Framework.Capture.StartRecording">
       <summary>
@@ -27245,7 +27273,7 @@
             Creates a test runner manager.
             </summary>
       <param name="factoryHandles">The factory handles.</param>
-      <exception cref="T:System.ArgumentNullException">Thrown if <paramref name="factoryResolver" /> is null.</exception>
+      <exception cref="T:System.ArgumentNullException">Thrown if <paramref name="factoryHandles" /> is null.</exception>
     </member>
     <member name="M:Gallio.Runner.DefaultTestRunnerManager.CreateTestRunner(System.String)">
       <summary>
@@ -28555,7 +28583,7 @@
       <param name="test">The test data.</param>
       <param name="testStepRun">The test step run.</param>
       <param name="logStreamName">The log stream name.</param>
-      <exception cref="T:System.ArgumentNullException">Thrown if <paramref name="report" />, <paramref name="test" /><paramref name="testStepRun" />, <paramref name="logStreamName" /> or <paramref name="text" /> is null.</exception>
+      <exception cref="T:System.ArgumentNullException">Thrown if <paramref name="report" />, <paramref name="test" /><paramref name="testStepRun" /> or <paramref name="logStreamName" /> is null.</exception>
     </member>
     <member name="P:Gallio.Runner.Events.TestStepLogStreamEventArgs.LogStreamName">
       <summary>

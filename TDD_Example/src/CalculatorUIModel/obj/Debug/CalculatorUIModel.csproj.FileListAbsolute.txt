@@ -1,0 +1,9 @@
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\CalculatorUIModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\CalculatorUIModel.pdb
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIModel\obj\Debug\CalculatorUIModel.dll
+C:\Users\dmohl.SOMMET\Documents\Visual Studio 2010\Projects\TDD_Example\src\CalculatorUIModel\obj\Debug\CalculatorUIModel.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\StructureMap.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\TDD_Example.dll
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\TDD_Example.pdb
+C:\Users\dmohl.SOMMET\documents\visual studio 2010\Projects\TDD_Example\src\CalculatorUIModel\bin\Debug\StructureMap.xml

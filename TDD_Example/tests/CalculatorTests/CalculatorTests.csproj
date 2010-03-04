@@ -12,6 +12,7 @@
     <AssemblyName>CalculatorTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -31,11 +32,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Gallio, Version=3.1.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL" />
+    <Reference Include="MbUnit, Version=3.1.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="Moq">
       <HintPath>..\..\lib\Moq.dll</HintPath>
     </Reference>
     <Reference Include="SG.Common">
       <HintPath>..\..\lib\SG.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SG.Common.Wpf">
+      <HintPath>..\..\lib\SG.Common.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="StructureMap">
       <HintPath>..\..\lib\StructureMap.dll</HintPath>
@@ -49,10 +56,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddStrategyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Calculator.csproj">
+    <ProjectReference Include="..\..\src\Calculator\Calculator.csproj">
       <Project>{40AF25BE-0FD0-4D26-82D0-5CA236EF8F19}</Project>
       <Name>Calculator</Name>
     </ProjectReference>
